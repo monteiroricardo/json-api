@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img  src="assetsGithub/logo.png" />
+    <img  src="assets_github/logo.png" />
    
 </h1>
 
@@ -19,7 +19,7 @@ Consumindo API que retorma uma lista com 500 maps
 <div
 style="background-color: #E0E0E0">
 <p align="center">
-  <img src="assetsGithub/app.gif">
+  <img src="assets_github/app.gif">
  
 </p>
 </div>
